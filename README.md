@@ -16,8 +16,7 @@ This repository contains a basic implementation of a client-server model using J
 
 - `serverSide.java`: The server that listens for incoming connections and responds to client messages.
 - `clientSide.java`: The client that connects to the server and sends messages.
-- `server_explained.md`: Step-by-step explanation of the server code.
-- `client_explained.md`: Step-by-step explanation of the client code.
+- `client-server.md`: Step-by-step explanation of the client and server code.
 
 ---
 
