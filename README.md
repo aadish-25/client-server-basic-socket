@@ -1,4 +1,4 @@
-# Client-Server Basic Socket
+# Client-Server Basic Socket Implementation
 
 This repository contains a basic implementation of a client-server model using Java sockets. It was created as part of a hands-on exercise to understand how socket programming works in Java.
 
